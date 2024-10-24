@@ -1,0 +1,7 @@
+torch>=2.0.0
+torchaudio>=2.0.0
+numpy>=1.21.0
+pandas>=1.3.0
+librosa>=0.9.0
+tqdm>=4.60.0
+TTS>=0.10.0  # Coqui TTS library for Text-to-Speech
